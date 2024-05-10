@@ -25,6 +25,7 @@ The project utilizes the [TMDB Movie dataset](https://www.kaggle.com/datasets/tm
 - NumPy
 - Pandas
 - Scikit-learn
+- Nltk
 
 ## Usage
 
