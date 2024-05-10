@@ -17,7 +17,7 @@ This project aims to develop a movie recommendation system using machine learnin
 
 ## Dataset
 
-The project utilizes the [MovieLens dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) as the dataset for training and evaluation. The dataset contains full credits for both the cast and the crew, rather than just the first three actors.
+The project utilizes the [TMDB Movie dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) as the dataset for training and evaluation. The dataset contains full credits for both the cast and the crew, rather than just the first three actors.
 
 ## Requirements
 
@@ -28,15 +28,13 @@ The project utilizes the [MovieLens dataset](https://www.kaggle.com/datasets/tmd
 
 ## Usage
 
-1. Clone the repository:
-  git clone https://github.com/username/movie-recommendation-system.git
+1. Clone the repository: ```git clone https://github.com/username/movie-recommendation-system.git```
 
-2. Install the required dependencies:
-  pip install -r requirements.txt
+2. Install the required dependencies: ```pip install -r requirements.txt```
 
 3. Download and preprocess the Movie and Credits dataset.
 
-4. Create a Similarity Matrix using Cosine Similarity
+4. Create a Similarity Matrix using Cosine Similarity metrics
    
 5. Evaluate the performance of the recommendation system.
 
