@@ -29,7 +29,7 @@ The project utilizes the [TMDB Movie dataset](https://www.kaggle.com/datasets/tm
 
 ## Usage
 
-1. Clone the repository: ```git clone https://github.com/username/movie-recommendation-system.git```
+1. Clone the repository: ```git clone https://github.com/amitakki/Movie-Recommender-System.git```
 
 2. Install the required dependencies: ```pip install -r requirements.txt```
 
